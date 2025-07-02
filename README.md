@@ -1,13 +1,4 @@
-   _____                                               
-  /     \ _____    ____ _____     ____   ___________ 
- /  \ /  \\__  \  /    \\__  \   / ___\_/ __ \_  __ \
-/    Y    \/ __ \|   |  \/ __ \_/ /_/  >  ___/|  | \/
-\____|__  (____  /___|  (____  /\___  / \___  >__|   
-        \/     \/     \/     \/_____/      \/       
-                   Manager - Powered by eThanJohnson99
-```
-
-# Database Dev Manager
+# Manager
 
 A unified, interactive shell tool for managing local development databases (MongoDB, MySQL, PostgreSQL, Redis) with Docker Compose.
 
