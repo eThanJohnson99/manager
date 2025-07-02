@@ -48,7 +48,3 @@ databases/
 - All sensitive credentials are managed in each database's `dev.env` file.
 - Compose files use `env_file: - dev.env` to inject variables.
 - **Do not commit real secrets to version control!**
-
----
-
-> Powered by eThanJohnson99 | MIT License 
